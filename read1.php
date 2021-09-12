@@ -19,7 +19,7 @@ $service_account_file = 'mrootz-a8c272caa339.json';
  * This is the long string that identifies the spreadsheet. Pick it up from
  * the spreadsheet's URL and paste it below.
  */
-$spreadsheet_id = 'd/1zSkhtD8oaouCObSdVPzanQXMlDpSGVoCKOHK0RgxzX4/edit#gid=1183938504';
+$spreadsheet_id = '1zSkhtD8oaouCObSdVPzanQXMlDpSGVoCKOHK0RgxzX4';
 
 /**
  * This is the range that you want to extract out of the spreadsheet. It uses
